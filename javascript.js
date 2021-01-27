@@ -1,4 +1,4 @@
-var age=prompt("How old are you?");
+var age=prompt("Spongebob is not for kids... how old are you?");
 
 var result;
 
